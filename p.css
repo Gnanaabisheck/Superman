@@ -1,0 +1,23 @@
+*{
+    background-color: black;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+body{
+    background-color: black;
+}
+img{
+    border-radius: 40px;
+    
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+.card{
+    background-color: black;
+}
+#sp img{
+    height: 200px;
+}
